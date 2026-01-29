@@ -6,3 +6,6 @@ pumpum
 prisioneros
 dune
 star wars
+si 
+no 
+puede
